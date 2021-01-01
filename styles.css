@@ -19,6 +19,7 @@ body {
 }
 
 #start {
+  background-color: #fff;
   border: solid 10px black;
   border-radius: 50%;
   display: block;
